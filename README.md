@@ -45,6 +45,12 @@ Power BI
 • KPI Cards
 • Dynamic Filters
 • Business Insights
+     |
+Presentaion of the data analysis
+-It is created by using Gamma Ai
+-It includes business insights
+-Define by using images
+-Gave suggestion  
 ```
 
 ---
@@ -59,6 +65,7 @@ Power BI
 - Jupyter Notebook
 - Git
 - GitHub
+- Powerpoint
 
 ---
 
